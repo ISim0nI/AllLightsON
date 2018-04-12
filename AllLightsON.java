@@ -22,7 +22,7 @@ public class AllLightsON extends Application {
     @Override
     public void start(Stage primaryStage) {
 
-
+wrrr
         primaryStage.setTitle("AllLightsON");
 
 
