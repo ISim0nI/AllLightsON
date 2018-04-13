@@ -12,7 +12,7 @@ import javafx.scene.layout.TilePane;
 
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
-aa
+
 /**
  * TODO Make it more structured this is so bad
  */
